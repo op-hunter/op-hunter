@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+<a href="https://github.com/op-hunter">
+  <img src="https://github-readme-stats.vercel.app/api?username=op-hunter&show_icons=true&theme=dracula" />
+</a>
 <!--
 **op-hunter/op-hunter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
